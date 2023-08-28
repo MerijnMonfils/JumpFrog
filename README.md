@@ -1,21 +1,32 @@
 # JumpFrog
 A 2D-Unity Game
 
-## Controls (also works with controller)
-Left:
-A or left-arrow
+## Besturing (partly works with controller)
+Beweging naar Links:
+Toetsenbord:A 
+Controller:Joystick 
+Mobile:Touch 
+Toetsenbord:Pijltjesknop-links
 
-Right:
-D or right-arrow
+Beweging naar Rechts: 
+Toetsenbord:D 
+Controller:Joystick 
+Mobile:Touch 
+Toetsenbord:Pijltjesknop-rechts
 
-Jump:
-Spacebar or A (on controller)
+Springen: 
+Toetsenbord:Spatie 
+Controller:A 
+Mobile:Touch
+Bij het springen hoort een speciale combinatie. Om naar links te springen, houd de Spring knop ingedrukt tot het gewenste niveau en laat los naar de gewenste richting.
+
+Cheats:
+Toetsenbord:C
+Bij de cheats moet je de C-knop vasthouden om in alle richtingen te kunnen bewegen, werkt alleen met WASD op het toetsenbord.
 
 Reset:
-R (keyboard only)
+Toetsenbord:R
 
-Cheat:
-C (keyboard only: hold C while moving for noclip)
+Escape (to main menu):
+Toetsenbord:Escape
 
-Back to menu:
-Escape (keyboard only)
